@@ -22,8 +22,8 @@ const projects = [
       "Complete school management system for preschools with student enrollment, attendance tracking, parent communication, and educational progress monitoring.",
     image: smsImg,
     tags: ["Java", "MySQL", " mongoDB"],
-    github: "https://github.com/Sadusha13/SCHOOL",
-    demo: "#",
+    github: "https://github.com/Sadusha13/school-management-system",
+    demo: "",
   },
   {
     title: "Smart Home System",
